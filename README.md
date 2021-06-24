@@ -3,5 +3,7 @@ It is game for selecting a correct number. In this game gamer gets a highscore a
 
 # Some Screenshots
 
+![1](https://user-images.githubusercontent.com/60169667/123307564-43613780-d540-11eb-9c61-d521d2420847.png)
+
 
 
